@@ -6,7 +6,6 @@ Segundo proyecto donde se aplicarán conceptos de programación en JavaScript, e
 1. Objetivos de Aprendizaje
 2. Planteamiento
 3. Requerimientos
-4. Solución paso a paso
 
 ## 1. Objetivos de Aprendizaje
 * Aplicación de conceptos básicos de programación en JavaScript.
@@ -16,3 +15,13 @@ Segundo proyecto donde se aplicarán conceptos de programación en JavaScript, e
 * Uso de funciones, funciones de flecha y funciones anónimas.
 * Implementación de programación orientada a objetos (POO) y programación funcional (PF).
 * Uso de Git como sistema de control de versiones y colaborar en GitHub.
+
+## 2. Planteamiento
+Construir un programa en JavaScript que permita a los usuarios crear encuestas, votar y ver los resultados en tiempo real.
+
+## 3. Requerimientos
+* Permitir a los usuarios crear encuestas con opciones de respuesta.
+* Permitir a los usuarios votar en las encuestas.
+* Mostrar los resultados de las encuestas en tiempo real.
+* Almacenar los datos de las encuestas y los votos en una variable.
+* Implementar la solución utilizando programación orientada a objetos (POO) y programación funcional (PF).
